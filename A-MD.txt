@@ -1,0 +1,28 @@
+
+https://prep.soyhenry.com/
+
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+	* Variables
+	* Strings
+	* Funciones (argumentos, `return`)
+	* Declaraciones `if`
+	* Valores booleanos (`true`, `false`)
+
+-- Respuestas:
+Variable: 
+Es el medio por el cual se guardan valores de algun tipo para ser usados mas tarde.
+
+String:
+Se denomina 'string' a las cadenas de texto.
+
+Funciones (argumentos, 'return')
+Las funiones son la parte mas importantes de todo lenguaje de programacion, y son un tipo particular de objeto
+por lo que tienen las mismas propiedades.
+
+Declaraciones 'if'
+Son el medio por el cual podemos evaluar si una condicion es verdadera o falsa para realizar o no determinada tarea.
+
+
+Valores booleanos ('true', 'false')
+Son valores verdadero o falso, para una determinada condicion.
